@@ -1,1 +1,1 @@
-Web based interactive and animated Math lesson demo
+Web based interactive and animated Math lesson
